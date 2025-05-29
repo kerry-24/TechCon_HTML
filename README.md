@@ -1,0 +1,1 @@
+This a basic website project for TechCon conference 2024 meant to practice various aspects of Semantic HTML
